@@ -10,8 +10,6 @@
 [PGN Alignment & Orientation](https://github.com/hall-polymers/PGN_chain_alignment)
 
 ### Kevin Shen
-[Simulations of different ion sizes](https://garbagea)
-
 [Taper+ion](https://garbageb)
 
 [Single-ion](https://garbageb)
